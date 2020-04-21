@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode-demo",
+  "version": "1.0.0",
+  "description": "LearnYouNode Demo Exercises",
+  "main": "",
+  "dependencies": {
+    "learnyounode": "^4.2.1"
+  },
+  "author": "RonPlusSign",
+  "license": "ISC"
+}
