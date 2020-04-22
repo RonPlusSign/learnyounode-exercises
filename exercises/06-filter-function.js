@@ -1,3 +1,5 @@
+// This module is used by the file "06-make-it-modular.js"
+
 const fs = require("fs"); // File system module
 const path = require("path"); // Path module
 

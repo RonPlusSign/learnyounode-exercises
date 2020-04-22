@@ -1,4 +1,4 @@
-const filterFunction = require("./filter-function"); // Import the module with the filter function
+const filterFunction = require("./06-filter-function"); // Import the module with the filter function
 
 let directoryName = process.argv[2]; // The directory that contains the files to read
 let extensionName = process.argv[3]; // The extension to filter with
