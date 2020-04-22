@@ -12,4 +12,5 @@ net
     // Close the socket (we have to write "\n" to the socket because that's how it is required from the exercise)
     socket.end("\n");
   })
+  // Specify on which port the server has to listen
   .listen(port);

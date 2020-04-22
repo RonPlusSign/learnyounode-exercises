@@ -6,7 +6,8 @@
   "dependencies": {
     "bl": "^4.0.2",
     "learnyounode": "^4.2.1",
-    "strftime": "^0.10.0"
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
   },
   "author": "RonPlusSign",
   "license": "ISC"
