@@ -10,7 +10,7 @@
 
 #### Useful links
 
-[NPMjs LearnYouNode](https://www.npmjs.com/package/learnyounode)
+[NPM LearnYouNode](https://www.npmjs.com/package/learnyounode)
 
 [NodeSchool](https://nodeschool.io/)
 

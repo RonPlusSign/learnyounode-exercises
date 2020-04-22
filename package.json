@@ -4,6 +4,7 @@
   "description": "LearnYouNode Demo Exercises",
   "main": "",
   "dependencies": {
+    "bl": "^4.0.2",
     "learnyounode": "^4.2.1"
   },
   "author": "RonPlusSign",
