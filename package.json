@@ -4,7 +4,7 @@
   "description": "LearnYouNode Demo Exercises",
   "main": "",
   "dependencies": {
-    "bl": "^4.0.2",
+    "bl": "^4.0.3",
     "learnyounode": "^4.2.1",
     "strftime": "^0.10.0",
     "through2-map": "^3.0.0"
